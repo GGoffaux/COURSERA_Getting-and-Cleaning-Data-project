@@ -22,4 +22,4 @@ The generated text file can be read by using the following instructions:
 data <- read.table("saved_tidy_data.txt", header = TRUE) 
 View(data)
 
-
+NB: The code "run_analysis.R" can be run as long as the Samsung data is in your working directory in a directory called Data.  
